@@ -1,0 +1,6 @@
+{
+  "name": "RoomBoard - 회의실 예약 관리 대시보드",
+  "description": "부서 회의실 예약 현황을 한눈에 파악하고, 예약 승인·조회·수정·취소 및 가동률을 체계적으로 관리하는 올인원 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
